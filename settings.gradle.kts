@@ -21,3 +21,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "Anuk_GuerraIzquierdo_UF1_ACT5"
 include(":app")
+include(":app")
